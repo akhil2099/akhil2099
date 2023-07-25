@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akhil2099.akhil2099&left_color=aliceblue&right_color=aquamarine"  />
+  <img src="https://profile-counter.glitch.me/akhil2099/count.svg?"  />
 </div>
 
 ###
