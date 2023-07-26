@@ -14,7 +14,7 @@ Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m curren
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&theme=radical&hide_border=false)<br/>
-![](&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
