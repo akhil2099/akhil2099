@@ -21,6 +21,6 @@ Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently 
 ![](https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&theme=radical&hide_border=false)<br/>
 <div style="display: flex; justify-content: center;"><br/>
   <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="1000" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="900" height="100" />
 
 
