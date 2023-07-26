@@ -14,7 +14,7 @@ Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently 
 
 ## 🌐 Socials:
 <div style="display: flex; justify-content: center;">
-    <a href="https://instagram.com/shooto_gram">
+   <p align="center"><a href="https://instagram.com/shooto_gram"></p> 
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://linkedin.com/in/akhil-v-953b04275">
