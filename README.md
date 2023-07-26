@@ -22,10 +22,5 @@ Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently 
 <div style="display: flex; justify-content: center;"><br/>
   <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="1000" height="100" />
-</div>
 
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil2099&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
