@@ -3,10 +3,10 @@
 Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m currently learning **DevOps Tools
 
 ## 🏆 GitHub Trophies
-<p>
+
 ![](https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-</p>
+
 
 
 
@@ -27,3 +27,45 @@ Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m curren
 ---
 [![](https://visitcount.itsvg.in/api?id=akhil2099&icon=2&color=9)](https://visitcount.itsvg.in)
 
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Sample data for contributions (replace this with your actual data)
+contributions = np.random.randint(0, 6, (7, 52))
+
+# Define the labels for the weekdays and months
+weekdays = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+months = [
+    'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+    'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+]
+
+def plot_contribution_graph(contributions):
+    fig, ax = plt.subplots(figsize=(10, 6))
+    im = ax.imshow(contributions, cmap='Blues')
+
+    # Show color bar
+    cbar = ax.figure.colorbar(im, ax=ax)
+    cbar.ax.set_ylabel("Contributions", rotation=-90, va="bottom")
+
+    # Set the ticks and labels for x and y-axes
+    ax.set_xticks(np.arange(len(weekdays)))
+    ax.set_yticks(np.arange(len(months)))
+    ax.set_xticklabels(weekdays)
+    ax.set_yticklabels(months)
+
+    # Rotate the tick labels and set their alignment
+    plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
+
+    # Loop over data dimensions and create text annotations.
+    for i in range(len(months)):
+        for j in range(len(weekdays)):
+            text = ax.text(j, i, contributions[i, j],
+                           ha="center", va="center", color="w")
+
+    ax.set_title("GitHub Contribution Graph")
+    fig.tight_layout()
+    plt.show()
+
+# Call the function to plot the contribution graph
+plot_contribution_graph(contributions)
