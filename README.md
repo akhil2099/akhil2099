@@ -6,25 +6,7 @@ Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m curren
 ![](https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-# Generate grid
-colours <- c("#ebedf0", "#9be9a8", "#40c463","#309b4c","#216e39")
-y <- LETTERS[1:60] # letters
-x <- seq(1,60)
-data <- expand.grid(X=x, Y=y)
-data$cols <- sample(colours, 3600, replace=TRUE)
-ggplot(data, aes(X, Y)) + 
-  geom_tile(aes(fill = cols, width=0.95, height=0.95)) + 
-  scale_fill_manual(values=colours) + 
-  labs(title = "Your local pool tiles") +
-  theme(axis.title.x = element_blank(),
-        axis.title.y = element_blank(),
-        axis.ticks.x=element_blank(),
-        axis.ticks.y=element_blank(),
-        axis.text.x=element_blank(),
-        axis.text.y=element_blank(),
-        legend.position = "none",
-        panel.background = element_rect(fill = 'white', color = 'white')
-  )
+
 ##![image](https://github.com/akhil2099/akhil2099/assets/136240934/bb7c4447-ac94-4309-97b3-fb110e1026a1)
 
 
