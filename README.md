@@ -7,7 +7,7 @@ Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m curren
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-![image](https://github.com/akhil2099/akhil2099/assets/136240934/bb7c4447-ac94-4309-97b3-fb110e1026a1)
+![Node.js CI](https://github.com/jasonlong/isometric-contributions/workflows/Node.js%20CI/badge.svg)
 
 
 ## 🌐 Socials:
