@@ -20,10 +20,10 @@ Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="margin-bottom: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /></p>
     </div>
     <div style="margin-bottom: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+      <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&theme=radical&hide_border=false" alt="GitHub Streak Stats" /></p>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" />
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" /></p>
   </div>
