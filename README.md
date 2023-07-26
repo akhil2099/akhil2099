@@ -5,7 +5,7 @@
 ## 🏆 GitHub Trophies
 
  <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
     <p align="center>"<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" /></p>
  </div>
 
