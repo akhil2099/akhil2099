@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently learning **DevOps Tools
+<p align="center">Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently learning **DevOps Tools</p>
 
 ## 🏆 GitHub Trophies
 
