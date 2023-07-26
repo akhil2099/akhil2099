@@ -4,6 +4,7 @@ Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m curren
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shooto_gram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-v-953b04275) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@zeuz1234567890) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shootogram7270) 
