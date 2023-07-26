@@ -27,3 +27,8 @@ Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m curren
 ---
 [![](https://visitcount.itsvg.in/api?id=akhil2099&icon=2&color=9)](https://visitcount.itsvg.in)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil2099&show_icons=true&locale=en&layout=compact" alt="akhil2099" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil2099&show_icons=true&locale=en" alt="akhil2099" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&" alt="akhil2099" /></p>
