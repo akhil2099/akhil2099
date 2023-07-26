@@ -3,10 +3,10 @@
 Hi 👋, I'm Akhil, A passionate DevOps Engineer from India<br>🌱 I’m currently learning **DevOps Tools
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<p>
 ![](https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-</div>
+</p>
 
 
 
