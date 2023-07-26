@@ -26,5 +26,5 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&" alt="akhil2099" /></p>
 <br>
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil2099&show_icons=true&locale=en&layout=compact" alt="akhil2099" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil2099&show_icons=true&locale=en&layout=compact" alt="akhil2099" />
 </div>
