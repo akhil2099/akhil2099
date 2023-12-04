@@ -1,4 +1,4 @@
-
+<img src="https://github.com/akhil2099/akhil2099/raw/main/assets/136240934/10c25fc8-d10e-4670-ac9c-e71ecd978198/banner%20(1).png" alt="My Banner">
 
 # 💫 About Me:
 <p align="center">
@@ -9,7 +9,7 @@
   🚀 Currently exploring the vast universe of DevOps tools.
 </p>
 
-<img src="https://github.com/akhil2099/akhil2099/raw/main/assets/136240934/10c25fc8-d10e-4670-ac9c-e71ecd978198/banner%20(1).png" alt="My Banner">
+
 
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
