@@ -1,5 +1,11 @@
 # 💫 About Me:
-<p align="center">Hi there! 👋 I'm Akhil, a DevOps enthusiast from India.<br/>🚀 Currently exploring the vast universe of DevOps tools.</p>
+<p align="center">
+  <big>Hi there!</big> 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="100"> 
+  <big>I'm Akhil, a DevOps enthusiast from India.</big>
+  <br/>
+  🚀 Currently exploring the vast universe of DevOps tools.
+</p>
 
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -72,4 +78,3 @@
 </div>
 
 
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji"> My name is Akhil V</h1>
