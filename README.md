@@ -1,18 +1,18 @@
 # 💫 About Me:
-<p align="center">Hi 👋, I'm Akhil, Pursuing DevOps Engineer from India<br>🌱 I’m currently learning **DevOps Tools</p>
+<p align="center">Hi there! 👋 I'm Akhil, a DevOps enthusiast from India.<br/>🚀 Currently exploring the vast universe of DevOps tools.</p>
 
 ## 🏆 GitHub Trophies
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
    <p align="center"> 
-      <img src="https://github-profile-trophy.vercel.app/?username=akhil2099&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=akhil2099&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
    </p>
    <p align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="GitHub Quotes" />
    </p>
 </div>
 
 ## 🌐 Socials:
-<div style="display: flex; justify-content: center; background-color: #f4f4f4; padding: 20px; border-radius: 10px; margin: 20px;">
+<div style="display: flex; justify-content: center; background-color: #292b2c; padding: 20px; border-radius: 10px; margin: 20px;">
   <p align="center">
     <a href="https://instagram.com/shooto_gram">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
@@ -55,7 +55,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 10px;">
+<div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 20px;">
     <div style="margin-right: 20px;">
         <p align="center">  
             <img src="https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
@@ -70,7 +70,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="200" height="100" />
     </p>
 </div>
-
-
-
-
