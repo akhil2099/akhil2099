@@ -9,9 +9,6 @@
    <p align="center">
   <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" alt="DevOps GIF" />
    </p>
-   <p align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="GitHub Quotes" />
-   </p>
 </div>
 
 ## 🌐 Socials:
