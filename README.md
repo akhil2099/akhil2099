@@ -10,20 +10,23 @@
  </div>
 
 ## 🌐 Socials:
-<div style="display: flex; justify-content: center;">
-   <p align="center"><a href="https://instagram.com/shooto_gram">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+<div style="display: flex; justify-content: center; background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+  <p align="center">
+    <a href="https://instagram.com/shooto_gram">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://linkedin.com/in/akhil-v-953b04275"></a>
-     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/akhil-v-953b04275">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-   <a href="https://twitter.com/@zeuz1234567890">
-     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+    <a href="https://twitter.com/@zeuz1234567890">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://youtube.com/@@shootogram7270">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
-    </a></p>
-  </div>
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+    </a>
+  </p>
+</div>
+
   
 # 💻 Tech Stack:
 <div style="display: flex; justify-content: center;">
