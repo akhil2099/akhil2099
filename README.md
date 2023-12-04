@@ -1,8 +1,8 @@
 # 💫 About Me:
 <p align="center">
-  <big>Hi there!</big> 
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="100"> 
-  <big>I'm Akhil, a DevOps enthusiast from India.</big>
+  <small>Hi there!</small> 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="50"> 
+  <small>I'm Akhil, a DevOps enthusiast from India.</small>
   <br/>
   🚀 Currently exploring the vast universe of DevOps tools.
 </p>
