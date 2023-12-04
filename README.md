@@ -46,7 +46,6 @@
     <img src="https://img.shields.io/badge/yaml-%231777B5.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
     <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/chat%20gpt-%234ea94b.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAWElEQVR42mJ0Pg6UURCD89dwwWAFGAIYoEbICsoIFhM4gIUogkRAyK0gChOAV8BVDzUhcog7w8JpeQoJ9Iw1YwC/qnHjGgpmS5iysq5m6vo6ZgHm4z1y/ITrBNRMkSDjIMo7Itsoptmweh4Ck0BFRB4MQFiQE2t6PpAAAAABJRU5ErkJggg==&logoColor=white" alt="ChatGPT" />
    </p>
   </div>
 # 📊 GitHub Stats:
