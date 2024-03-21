@@ -62,14 +62,12 @@
       <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON">
       <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/IIS-%23121011.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="IIS">
       <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=Nginx&logoColor=white" alt="Nginx">
       <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
+      <img src="https://img.shields.io/badge/IIS-%23121011.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="IIS">
       <img src="https://img.shields.io/badge/MariaDB-%23003571.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
       <img src="https://img.shields.io/badge/Cockpit-%232E2E2E.svg?style=for-the-badge&logo=Cockpit&logoColor=white" alt="Cockpit">
-      <img src="https://img.shields.io/badge/MobaXterm-%230085C7.svg?style=for-the-badge&logo=MobaXterm&logoColor=white" alt="MobaXterm">
-
-
+      
 
    </p>
 </div>
