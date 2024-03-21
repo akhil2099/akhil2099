@@ -22,7 +22,7 @@
 ## 🌐 Socials:
 <div style="display: flex; justify-content: center; background-color: #292b2c; padding: 20px; border-radius: 10px; margin: 20px;">
   <p align="center">
-    <a href="https://instagram.com/shooto_gram">
+    <a href="https://instagram.com/_touch_some_grass">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://linkedin.com/in/akhil-v-953b04275">
