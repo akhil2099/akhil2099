@@ -1,7 +1,5 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;I'm+also+System+Administrator;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![banner (1)](https://github.com/akhil2099/akhil2099/assets/136240934/246f25c6-73bb-4b1c-853b-c615b4d76ba8)
