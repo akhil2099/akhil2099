@@ -8,9 +8,7 @@
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 ![banner (1)](https://github.com/akhil2099/akhil2099/assets/136240934/246f25c6-73bb-4b1c-853b-c615b4d76ba8)
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 ## 🏆 GitHub Trophies
