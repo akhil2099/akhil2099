@@ -71,7 +71,9 @@
 
    </p>
 </div>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 # 📊 GitHub Stats:
 <div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 20px;">
     <div style="margin-right: 20px;">
