@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="50"> 
   <small>I'm Akhil, a DevOps enthusiast from India.</small>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F700&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Currently+exploring+the+vast+universe+of+DevOps+tools." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F700&random=false&width=435&lines=%F0%9F%9A%80+Currently+exploring+the+vast+universe+of+DevOps+tools." alt="Typing SVG" /></a>
 </p>
 
 ![banner (1)](https://github.com/akhil2099/akhil2099/assets/136240934/246f25c6-73bb-4b1c-853b-c615b4d76ba8)
