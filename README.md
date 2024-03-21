@@ -1,9 +1,5 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
-<div style="display: flex; justify-content: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;I'm+also+System+Administrator;And+I'm+a+proud+Indian" alt="Typing SVG">
-  </a>
-</div>
+<div style="text-align: center;"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"></picture><strong>About me</strong><br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;I'm+also+System+Administrator;And+I'm+a+proud+Indian" alt="Typing SVG"></a></div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
