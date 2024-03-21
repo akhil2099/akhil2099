@@ -6,9 +6,13 @@
   <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F700&multiline=true&random=false&width=435&lines=%F0%9F%9A%80+Currently+exploring+the+vast;universe+of+DevOps+tools." alt="Typing SVG" /></a>
 </p>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 ![banner (1)](https://github.com/akhil2099/akhil2099/assets/136240934/246f25c6-73bb-4b1c-853b-c615b4d76ba8)
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
    <p align="center"> 
@@ -18,7 +22,9 @@
   <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" alt="DevOps GIF" />
    </p>
 </div>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 ## 🌐 Socials:
 <div style="display: flex; justify-content: center; background-color: #292b2c; padding: 20px; border-radius: 10px; margin: 20px;">
   <p align="center">
@@ -36,7 +42,9 @@
     </a>
   </p>
 </div>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 # 💻 Tech Stack:
 <div style="display: flex; justify-content: center;">
    <p align="center"> 
