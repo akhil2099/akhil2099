@@ -1,11 +1,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 <p align="center">
-  <small>Hi there!</small> 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="50"> 
-  <small>I'm Akhil, a DevOps enthusiast from India.</small>
-  <br/>
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;I'm+also+System+Administrator;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
+  <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;I'm+also+System+Administrator;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
+
 
 
 </p>
