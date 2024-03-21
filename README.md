@@ -67,11 +67,7 @@
       <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
       <img src="https://img.shields.io/badge/MariaDB-%23003571.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
       <img src="https://img.shields.io/badge/Cockpit-%232E2E2E.svg?style=for-the-badge&logo=Cockpit&logoColor=white" alt="Cockpit">
-      <img src="https://img.shields.io/badge/Jenkins%20Pipeline-%23D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins Pipeline">
-
-
-
-
+      <img src="https://img.shields.io/badge/MobaXterm-%230085C7.svg?style=for-the-badge&logo=MobaXterm&logoColor=white" alt="MobaXterm">
 
 
 
