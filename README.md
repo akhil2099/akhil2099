@@ -89,8 +89,8 @@
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=136240934" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=dark" width="1000" height="auto">
-    <img alt="Dashboard stats of @akhil2099" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=light" width="1000" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=dark" width="900" height="auto">
+    <img alt="Dashboard stats of @akhil2099" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=light" width="900" height="auto">
   </picture>
 </a>
 
