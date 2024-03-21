@@ -48,6 +48,7 @@
       <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MariaDB-%23003571.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
       <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
       <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -56,9 +57,18 @@
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/kubeshark-%230A192F.svg?style=for-the-badge" alt="Kubeshark" />
       <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana">
       <img src="https://img.shields.io/badge/yaml-%231777B5.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
       <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/IIS-%23121011.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="IIS">
+      <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=Nginx&logoColor=white" alt="Nginx">
+      <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
+      <img src="https://img.shields.io/badge/MariaDB-%23003571.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
+
+
+
+
    </p>
 </div>
 
