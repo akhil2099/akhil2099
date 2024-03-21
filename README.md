@@ -11,7 +11,8 @@
 ![banner (1)](https://github.com/akhil2099/akhil2099/assets/136240934/246f25c6-73bb-4b1c-853b-c615b4d76ba8)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🏆 GitHub Trophies
+
+## **🏆GitHub Trophies**
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
    <p align="center"> 
       <img src="https://github-profile-trophy.vercel.app/?username=akhil2099&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
