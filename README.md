@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="50"> 
   <small>I'm Akhil, a DevOps enthusiast from India.</small>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F700&multiline=true&random=false&width=435&lines=%F0%9F%9A%80+Currently+exploring+the+vast;universe+of+DevOps+tools." alt="Typing SVG" /></a>
+
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -85,20 +85,15 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 20px;">
-    <div style="margin-right: 20px;">
-        <p align="center">  
-            <img src="https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-        </p>
-    </div>
-    <div style="margin-right: 20px;">
-        <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-        </p>
-    </div>
-    <p align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="200" height="100" />
-    </p>
-</div>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=136240934" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @akhil2099" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
