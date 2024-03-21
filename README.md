@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></picture> **Socials**
+## **Socials** <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></picture> 
 <br>
 <div style="display: flex; justify-content: center; background-color: #292b2c; padding: 20px; border-radius: 10px; margin: 20px;">
   <p align="center">
