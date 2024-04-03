@@ -76,8 +76,6 @@
       <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
       <img src="https://img.shields.io/badge/IIS-%23121011.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="IIS">
       <img src="https://img.shields.io/badge/MariaDB-%23003571.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
-      <img src="https://img.shields.io/badge/ecs-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="ECS" />
-      <img src="https://img.shields.io/badge/fargate-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Fargate" />
       <img src="https://img.shields.io/badge/Cockpit-%232E2E2E.svg?style=for-the-badge&logo=Cockpit&logoColor=white" alt="Cockpit">
       
 
