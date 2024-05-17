@@ -88,12 +88,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=136240934" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=dark" width="1000" height="auto">
-    <img alt="Dashboard stats of @akhil2099" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136240934&image_size=auto&color_scheme=light" width="1000" height="auto">
-  </picture>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhil2099&theme=dracula&border_radius=25&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35)](https://git.io/streak-stats)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
