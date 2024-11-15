@@ -1,7 +1,7 @@
 ## **About me**  
 <div style="display: flex; justify-content: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;I'm+also+System+Administrator;And+I'm+a+proud+Indian" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhil!;I'm+a+DevOps+Enthusiast...;And+I'm+a+proud+Indian" alt="Typing SVG">
   </a>
 
 
