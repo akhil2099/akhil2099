@@ -117,6 +117,8 @@
 <img src="https://img.shields.io/badge/GRUB-%236A6AFF.svg?style=for-the-badge&logo=linux&logoColor=white" alt="GRUB">
 <img src="https://img.shields.io/badge/Dracula-%236241A5.svg?style=for-the-badge&logo=dracula&logoColor=white" alt="Dracula">
 <img src="https://img.shields.io/badge/Curl-%23007396.svg?style=for-the-badge&logo=curl&logoColor=white" alt="Curl">
+<img src="https://img.shields.io/badge/GoDaddy-%2300A318.svg?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy">
+
    </p>
 </div>
 <br>
