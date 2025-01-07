@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/CI_CD-%2318A4A3.svg?style=for-the-badge&logo=ci&logoColor=white" alt="CI/CD">
 <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -119,6 +120,16 @@
 <img src="https://img.shields.io/badge/Curl-%23007396.svg?style=for-the-badge&logo=curl&logoColor=white" alt="Curl">
 <img src="https://img.shields.io/badge/GoDaddy-%2300A318.svg?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy">
 <img src="https://img.shields.io/badge/Cloudflare-%230E78FF.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/Microsoft_Teams-%23168C87.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
+<img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+<img src="https://img.shields.io/badge/DigitalOcean-%230A87F5.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+<img src="https://img.shields.io/badge/OBS_%20Studio-%23000000.svg?style=for-the-badge&logo=obs-studio&logoColor=white" alt="OBS Studio">
+<img src="https://img.shields.io/badge/Warp_Terminal-%2325A2A5.svg?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal">
+<img src="https://img.shields.io/badge/Google_Chat-%234D8EFC.svg?style=for-the-badge&logo=googlechat&logoColor=white" alt="Google Chat">
+
+
+
 
    </p>
 </div>
