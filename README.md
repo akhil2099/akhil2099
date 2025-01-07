@@ -90,6 +90,25 @@
 <img src="https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
 <img src="https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/pgAdmin-%23316192.svg?style=for-the-badge&logo=pgadmin&logoColor=white" alt="pgAdmin">
+<img src="https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
+<img src="https://img.shields.io/badge/Loophole-%2327376F.svg?style=for-the-badge&logoColor=white" alt="Loophole">
+<img src="https://img.shields.io/badge/ngrok-%23000000.svg?style=for-the-badge&logo=ngrok&logoColor=white" alt="ngrok">
+<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+<img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+<img src="https://img.shields.io/badge/Obsidian-%237D7D7D.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+<img src="https://img.shields.io/badge/PuTTY-%233080C7.svg?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY">
+<img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/Bat-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Bat">
+
 
       
 
