@@ -115,11 +115,7 @@
 <img src="https://img.shields.io/badge/Conky-%23007CC1.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Conky">
 <img src="https://img.shields.io/badge/Neofetch-%2384A1AC.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Neofetch">
 <img src="https://img.shields.io/badge/GRUB-%236A6AFF.svg?style=for-the-badge&logo=linux&logoColor=white" alt="GRUB">
-
-
-
-
-      
+<img src="https://img.shields.io/badge/Dracula-%236241A5.svg?style=for-the-badge&logo=dracula&logoColor=white" alt="Dracula">
 
    </p>
 </div>
