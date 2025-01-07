@@ -107,7 +107,16 @@
 <img src="https://img.shields.io/badge/PuTTY-%233080C7.svg?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY">
 <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-<img src="https://img.shields.io/badge/Bat-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Bat">
+<img src="https://img.shields.io/badge/Zsh-%23FFD500.svg?style=for-the-badge&logo=gnubash&logoColor=black" alt="Zsh">
+<img src="https://img.shields.io/badge/Oh_My_Zsh-%231A1A1A.svg?style=for-the-badge&logo=ohmyzsh&logoColor=white" alt="Oh My Zsh">
+<img src="https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME">
+<img src="https://img.shields.io/badge/KDE-%231E8CBE.svg?style=for-the-badge&logo=kde&logoColor=white" alt="KDE">
+<img src="https://img.shields.io/badge/Xfce-%237AC7E3.svg?style=for-the-badge&logo=xfce&logoColor=white" alt="Xfce">
+<img src="https://img.shields.io/badge/Conky-%23007CC1.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Conky">
+<img src="https://img.shields.io/badge/Neofetch-%2384A1AC.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Neofetch">
+<img src="https://img.shields.io/badge/GRUB-%236A6AFF.svg?style=for-the-badge&logo=linux&logoColor=white" alt="GRUB">
+
+
 
 
       
