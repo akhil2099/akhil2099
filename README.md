@@ -174,6 +174,5 @@
 
 ## `{ GitHub Activity }`
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil2099&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&layout=compact&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200)
 
