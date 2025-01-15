@@ -173,9 +173,27 @@
 
 ```mermaid
 timeline
-    2022 : Started DevOps Journey
+    2023 : Started DevOps Journey
          : Learned Git & GitHub
-    2023 : Mastered Docker
-         : Learned Kubernetes
-    2024 : Cloud Certifications
-         : Advanced DevOps Projects
+         : Mastered Linux Diistributions
+         : Learned Nginx & Apache
+         : Learned Bash Scripting
+         : Started Learning Windows Batch Automation
+         : Mastered Docker
+         : Got Internship certification from Synnefo Solutions
+    2024 : Started Kubernetes
+         : Learned Ansible and Terraform
+         : Started Learning CI/CD
+         : Learned Jenkins & Github Actions
+         : Learned Monitoring Tools like Prometheus & Grafana
+         : Started Learning AWS and Hosted Web applications on server
+         : Learned Sonarqube
+         : Learned GoDaddy
+         : Started Learning React
+         : Got Internship Certifiaction from Techvantage Analytics
+    2025 : Successfully Deployed React Portfolio AWS instance using Docker, Nginx and Github Action with DNS records
+         : Learned Caprover
+         : Learned Mysql,Mssql,Postgres,Mariadb,Mongodb databases
+         : Learned Logrocket
+         : Started Learning Java Springboot
+         : Started Learning Docker Swarm
