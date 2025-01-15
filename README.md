@@ -202,7 +202,7 @@ timeline
          : Started Learning Java Springboot
          : Started Learning Docker Swarm
 ```
-
+</div>
 ## `{ DevOps Life Status }`
 
 ```python
