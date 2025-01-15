@@ -168,3 +168,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
+
+## `{ Learning Journey }`
+
+```mermaid
+timeline
+    2022 : Started DevOps Journey
+         : Learned Git & GitHub
+    2023 : Mastered Docker
+         : Learned Kubernetes
+    2024 : Cloud Certifications
+         : Advanced DevOps Projects
