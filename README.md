@@ -180,6 +180,10 @@ timeline
          : Learned Bash Scripting
          : Started Learning Windows Batch Automation
          : Mastered Docker
+         : Learned IIS
+         : Learned Vim
+         : Linux Customzation
+         : Grub Customization
          : Got Internship certification from Synnefo Solutions
     2024 : Started Kubernetes
          : Learned Ansible and Terraform
@@ -193,7 +197,7 @@ timeline
          : Got Internship Certifiaction from Techvantage Analytics
     2025 : Successfully Deployed React Portfolio AWS instance using Docker, Nginx and Github Action with DNS records
          : Learned Caprover
-         : Learned Mysql,Mssql,Postgres,Mariadb,Mongodb databases
+         : Learned Mysql, Mssql, Postgres, Mariadb, Mongodb databases
          : Learned Logrocket
          : Started Learning Java Springboot
          : Started Learning Docker Swarm
