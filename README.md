@@ -203,6 +203,12 @@ timeline
          : Started Learning Docker Swarm
 ```
 
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
-![Works on My Machine](https://img.shields.io/badge/Works-On%20My%20Machine-green?style=for-the-badge&logo=windows&logoColor=white)
-![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4?style=for-the-badge)
+## `{ Weekend Mode }`
+
+```python
+if is_weekend():
+    brain.execute('sleep.exe')
+    notifications.mute()
+    coffee_machine.start()
+else:
+    return "Nice try! Back to coding!"
