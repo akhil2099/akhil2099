@@ -201,3 +201,15 @@ timeline
          : Learned Logrocket
          : Started Learning Java Springboot
          : Started Learning Docker Swarm
+
+
+## `{ Developer Mode }`
+
+```js
+const akhil = {
+  currentStatus: "Debugging life... ☕",
+  dailyMood: ["Coffee", "Code", "Coffee", "Debug", "Coffee"],
+  location: "Between keyboard and chair",
+  superPower: "Turning coffee into code",
+  favoriteError: "404 Sleep Not Found"
+}
