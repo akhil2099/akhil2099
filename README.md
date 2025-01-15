@@ -163,13 +163,8 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=akhil2099&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&layout=compact&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-## `{ GitHub Activity }`
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&layout=compact&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200)
 
