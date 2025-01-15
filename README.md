@@ -203,12 +203,6 @@ timeline
          : Started Learning Docker Swarm
 ```
 
-## `{ Loading Developer Skills... }`
-
-Coffee Drinking: █████████████████████ 100%
-Debugging: ████████████████████░ 95%
-Googling: █████████████████████ 100%
-Actually Coding: ██░░░░░░░░░░░░░░░ 20%
-Stack Overflow Copy Paste: █████████████████████ 100%
-
-```
+![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+![Works on My Machine](https://img.shields.io/badge/Works-On%20My%20Machine-green?style=for-the-badge&logo=windows&logoColor=white)
+![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4?style=for-the-badge)
