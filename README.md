@@ -201,7 +201,7 @@ timeline
          : Learned Logrocket
          : Started Learning Java Springboot
          : Started Learning Docker Swarm
-
+```
 
 ## `{ Developer Mode }`
 
