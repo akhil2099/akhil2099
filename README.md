@@ -202,9 +202,9 @@ timeline
          : Started Learning Java Springboot
          : Started Learning Docker Swarm
 ```
-</div>
 
 ## `{ Docker Status: Life Edition }`
+</div>
 
 ```bash
 ➜ docker ps -a
