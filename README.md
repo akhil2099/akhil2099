@@ -203,13 +203,16 @@ timeline
          : Started Learning Docker Swarm
 ```
 
-## `{ Developer Mode }`
+## `{ When I'm Coding }`
 
-```js
-const akhil = {
-  currentStatus: "Debugging life... ☕",
-  dailyMood: ["Coffee", "Code", "Coffee", "Debug", "Coffee"],
-  location: "Between keyboard and chair",
-  superPower: "Turning coffee into code",
-  favoriteError: "404 Sleep Not Found"
-}
+```text
+         🌟 My Brain
+      ___________
+     /           \
+    /  {[(°□°)]}  \
+    \  Code.exe   /
+     \___________/
+
+    Status: Running...
+    Coffee Level: ███████ 70%
+    Debug Mode: Always On
