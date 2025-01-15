@@ -206,6 +206,7 @@ timeline
 
 ## `{ Docker Status: Life Edition }`
 
+```bash
 ➜ docker ps -a
 CONTAINER ID    NAME                   STATUS
 CoffeeEmpty     brain_function        Paused (Need refill)
@@ -280,3 +281,4 @@ NETWORK ID      NAME                DRIVER      SCOPE
 caffeine        brain_network       overlay     local
 sleep           dream_network       bridge      disconnected
 stackoverflow   knowledge_base      overlay     global
+```
