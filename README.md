@@ -203,12 +203,16 @@ timeline
          : Started Learning Docker Swarm
 ```
 
-## `{ Weekend Mode }`
+## `{ DevOps Life Status }`
 
 ```python
-if is_weekend():
-    brain.execute('sleep.exe')
-    notifications.mute()
-    coffee_machine.start()
-else:
-    return "Nice try! Back to coding!"
+while alive:
+    try:
+        coffee.drink()
+        code.write()
+        if code.works():
+            break   # Just kidding, this never happens
+    except NoMoreCoffeeError:
+        panic()
+
+```
