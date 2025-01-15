@@ -210,3 +210,5 @@ Debugging: ████████████████████░ 95%
 Googling: █████████████████████ 100%
 Actually Coding: ██░░░░░░░░░░░░░░░ 20%
 Stack Overflow Copy Paste: █████████████████████ 100%
+
+```
