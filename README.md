@@ -168,4 +168,12 @@
 <br>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+## `{ Contribution Graph }`
+
+![Snake animation](https://github.com/[username]/[username]/blob/output/github-contribution-grid-snake.svg)
+
+## `{ GitHub Activity }`
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil2099&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&layout=compact&theme=radical)
 
