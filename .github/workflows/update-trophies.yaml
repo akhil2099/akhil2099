@@ -1,0 +1,21 @@
+name: Update Trophies
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Weekly
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: akhil2099
+      - name: Commit changes
+        run: |
+          git config --global user.name 'README-bot'
+          git config --global user.email '[email protected]'
+          git add .
+          git commit -m "Update trophies" || exit 0
+          git push
